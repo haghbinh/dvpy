@@ -17,6 +17,16 @@ By the end of this course, students will be able to:
 
 ---
 
+
+---
+
+## 📘 Course Materials
+
+| Week | Topic | Notebook | Slides |
+|------|--------|-----------|--------|
+| 1 | Introduction to Data Visualization | [Sec1_matplotlib.ipynb](./Notebooks/Sec1_matplotlib.ipynb) | [Sec1_matplotlib.pdf](./Slides/Sec1_matplotlib.pdf) |
+---
+
 ## 🛠️ Installation & Setup
 
 To run examples and notebooks locally:
@@ -27,10 +37,15 @@ git clone https://github.com/<your-username>/dvlab.git
 cd dvlab
 ```
 
-# (Optional) Create a virtual environment
+### (Optional) Create a virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
+```
 
-# Install dependencies
+### Install dependencies
+```bash
 pip install -r requirements.txt
+
+```
 
