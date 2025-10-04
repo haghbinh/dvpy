@@ -17,9 +17,6 @@ By the end of this course, students will be able to:
 
 ---
 
-
----
-
 ## 📘 Course Materials
 
 | Week | Topic | Notebook | Slides |
