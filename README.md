@@ -24,7 +24,12 @@ By the end of this course, students will be able to:
 
 | Week | Topic | Notebook | Slides |
 |------|--------|-----------|--------|
-| 1 | Introduction to Data Visualization | [Sec1_matplotlib.ipynb](./Notebooks/Sec1_matplotlib.ipynb) | [Sec1_matplotlib.pdf](./Slides/Sec1_matplotlib.pdf) |
+| 1 | Fundamentals with Matplotlib | [Sec1_matplotlib.ipynb](./Notebooks/Sec1_matplotlib.ipynb) | [Sec1_matplotlib.pdf](./Slides/Sec1_matplotlib.pdf) |
+| 2 | Statistical Visualization with Seaborn | [03_seaborn.ipynb](./Notebooks/03_seaborn.ipynb) | [week3_seaborn.pdf](./Slides/week3_seaborn.pdf) |
+| 3 | Interactive Visualization with Plotly | [04_plotly.ipynb](./Notebooks/04_plotly.ipynb) | [week4_plotly.pdf](./Slides/week4_plotly.pdf) |
+| 4 | Dashboards and Web Apps with Dash | [05_dash.ipynb](./Notebooks/05_dash.ipynb) | [week5_dash.pdf](./Slides/week5_dash.pdf) |
+| 5 | Design Principles & Final Project | [06_final_project.ipynb](./Notebooks/06_final_project.ipynb) | [week6_final_project.pdf](./Slides/week6_final_project.pdf) |
+
 ---
 
 ## 🛠️ Installation & Setup
