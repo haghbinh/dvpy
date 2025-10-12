@@ -21,7 +21,7 @@ By the end of this course, students will be able to:
 
 | Week | Topic | Notebook | Slides |
 |------|--------|-----------|--------|
-| 1 | Fundamentals with Matplotlib | [Sec1_matplotlib.ipynb](./Notebooks/Sec1_matplotlib.ipynb) | [Sec1_Matplotlib.pdf](./Slides/Sec1_matplotlib.pdf) |
+| 1 | Fundamentals with Matplotlib | [Sec1_matplotlib.ipynb](./Notebooks/Sec1_matplotlib.ipynb) | [Sec1_matplotlib.pdf](./Slides/Sec1_matplotlib.pdf) |
 | 2 | Statistical Visualization with Seaborn | [Sec2_seaborn.ipynb](./Notebooks/Sec2_seaborn.ipynb) | [Sec2_seaborn.pdf](./Slides/Sec2_seaborn.pdf) |
 | 3 | Interactive Visualization with Plotly | [04_plotly.ipynb](./Notebooks/04_plotly.ipynb) | [week4_plotly.pdf](./Slides/week4_plotly.pdf) |
 | 4 | Dashboards and Web Apps with Dash | [05_dash.ipynb](./Notebooks/05_dash.ipynb) | [week5_dash.pdf](./Slides/week5_dash.pdf) |
